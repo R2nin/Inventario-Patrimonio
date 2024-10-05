@@ -1,6 +1,6 @@
-# Inventario-Patrimonio
+# Inventario  -Patrimonio
 
-MVC de um Sistema para auxilio no processo de inentario
+MVC de um Sistema para auxilio no processo de inventario
 
 # Cronograma do Projeto
 
