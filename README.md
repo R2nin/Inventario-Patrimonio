@@ -13,7 +13,8 @@ MVC de um Sistema para auxilio no processo de inventario
 - [x] Definir os requisitos do sistema.
 - [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 
-![image](https://github.com/user-attachments/assets/2a375887-46d8-46b6-8d0e-7f95490b458e)
+![image](https://github.com/user-attachments/assets/86f065cc-6650-4fc9-a477-e96802f21cc5)
+
 
 - [x] <b>DIAGRAMA DE ATIVIDADES (FLUXOGRAMAS) - Exemplo: Consulta Patrimônio</b>
 
