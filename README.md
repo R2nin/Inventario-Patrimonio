@@ -12,7 +12,12 @@ MVC de um Sistema para auxilio no processo de inventario
 - [ ] Aprender os fundamentos de Flask ou Django.
 - [x] Definir os requisitos do sistema.
 - [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
+
 ![image](https://github.com/user-attachments/assets/2a375887-46d8-46b6-8d0e-7f95490b458e)
+
+- [x] <b>DIAGRAMA DE ATIVIDADES (FLUXOGRAMAS) - Exemplo: Consulta Patrimônio</b>
+
+![image](https://github.com/user-attachments/assets/daf99abc-b4cf-4193-adb4-196cf2ca8eef)
 
 - [x] Envio no Moodle do pre projeto. 
 ### Semana 2 (12/10 - 18/10)
