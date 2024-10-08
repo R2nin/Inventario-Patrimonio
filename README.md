@@ -10,8 +10,8 @@ MVC de um Sistema para auxilio no processo de inventario
 ### Semana 1 (05/10 - 11/10)
 - [x] Estudo e Planejamento:
 - [ ] Aprender os fundamentos de Flask ou Django.
-- [ ] Definir os requisitos do sistema.
-- [ ] Desenhar o modelo de dados (5 tabelas).
+- [x] Definir os requisitos do sistema.
+- [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 ### Semana 2 (12/10 - 18/10)
 - [ ] Configuração do Ambiente:
 - [ ] Configurar o ambiente de desenvolvimento.
