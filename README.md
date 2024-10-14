@@ -9,7 +9,7 @@ MVC de um Sistema para auxilio no processo de inventario
 
 ### Semana 1 (05/10 - 11/10)
 - [x] Estudo e Planejamento:
-- [x] Aprender os fundamentos de Flask ou Django. Definido Django (https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/). Em andamento 110/250
+- [x] Aprender os fundamentos de Flask ou Django. Definido Django (https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/). Em andamento 119/250 (14/10/2024)
 - [x] Definir os requisitos do sistema.
 - [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 
