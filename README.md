@@ -6,6 +6,8 @@ MVC de um Sistema para auxilio no processo de inventario
 
 - Início: 05/10/2024
 - Término: 10/11/2024
+- Links:
+- https://docs.djangoproject.com/pt-br/5.1/
 
 ### Semana 1 (05/10 - 11/10)
 - [x] Estudo e Planejamento:
