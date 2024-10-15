@@ -27,6 +27,7 @@ MVC de um Sistema para auxilio no processo de inventario
 - [x] Criar o projeto base em Flask ou Django.
 - [x] Configurar o banco de dados (sugestão: PostgreSQL ou SQLite). Definindo a melhor estrategia.
 - [ ] https://www.youtube.com/watch?v=sNCbSTc55OI
+- [ ] https://github.com/R2nin/learnlive-rag-starter
 ### Semana 3 (19/10 - 25/10)
 - [ ] Desenvolvimento Inicial:
 - [ ] Implementar o modelo de dados no banco de dados.
