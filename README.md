@@ -4,8 +4,8 @@ MVC de um Sistema para auxilio no processo de inventario
 
 # Cronograma do Projeto
 
-- Início: 05/10/2024
-- Término: 10/11/2024
+- Início: <b>05/10/2024</b>
+- Término: <b>10/11/2024,/b>
 - Links:
 - https://docs.djangoproject.com/pt-br/5.1/
 - https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/
