@@ -11,10 +11,11 @@ MVC de um Sistema para auxilio no processo de inventario
 - https://www.udemy.com/share/10bBZN3@dAw-4lYe8iiK0fjWGie4QjH2wlyW4W1pxkvETu61cJt77tqQKJkvsL4JyRAG31Du/
 - https://www.youtube.com/watch?v=sNCbSTc55OI
 - https://github.com/R2nin/learnlive-rag-starter
+- https://www.youtube.com/watch?v=G7xBSmR1Pjw&list=PLGFzROSPU9oWFatNJO6yY3V2AkIdIyhXV
 
 ### Semana 1 (05/10 - 11/10)
 - [x] Estudo e Planejamento:
-- [x] Aprender os fundamentos de Flask ou Django. Definido Django . 119/250 (14/10/2024) 161/250 (15/10/2024)
+- [x] Aprender os fundamentos de Flask ou Django. Definido Django . 119/250 (14/10/2024) 161/250 (15/10/2024) 250/250 (19/10/2024)
 - [x] Definir os requisitos do sistema.
 - [x] Desenhar o modelo de dados (6 tabelas). (Ver o PDF com o Modelo inicial)
 
