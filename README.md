@@ -37,13 +37,13 @@ MVC de um Sistema para auxilio no processo de inventario
 Optado por fazer uma sistema de inventario (controle de estoque). Motivo: Video do youtube e treinamento para projeto maior (falta de tempo) 28/10/2024 </b>
 
 ### Semana 3 (19/10 - 25/10)
-- [ ] Desenvolvimento Inicial:
-- [ ] Implementar o modelo de dados no banco de dados.
-- [ ] Criar as primeiras views e templates.
-- [ ] Implementar a lógica de controle para as operações básicas (CRUD).
+- [x] Desenvolvimento Inicial:
+- [x] Implementar o modelo de dados no banco de dados.
+- [x] Criar as primeiras views e templates.
+- [x] Implementar a lógica de controle para as operações básicas (CRUD).
 ### Semana 4 (26/10 - 01/11)
-- [ ] Desenvolvimento Avançado:
-- [ ] Adicionar funcionalidades adicionais (ex: autenticação de usuários).
+- [x] Desenvolvimento Avançado:
+- [x] Adicionar funcionalidades adicionais (ex: autenticação de usuários).
 - [ ] Melhorar a interface do usuário.
 - [ ] Testar e corrigir bugs.
 ### Semana 5 (02/11 - 08/11)
