@@ -33,6 +33,9 @@ MVC de um Sistema para auxilio no processo de inventario
 - [x] Criar o projeto base em Flask ou Django.
 - [x] Configurar o banco de dados (sugestão: PostgreSQL ou SQLite). Definindo a melhor estrategia.
 
+<b>Refeito o planejamento original:
+Optado por fazer uma sistema de inventario (controle de estoque). Motivo: Video do youtube e treinamento para projeto maior (falta de tempo) 28/10/2024 </b>
+
 ### Semana 3 (19/10 - 25/10)
 - [ ] Desenvolvimento Inicial:
 - [ ] Implementar o modelo de dados no banco de dados.
