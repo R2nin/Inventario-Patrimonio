@@ -1,6 +1,6 @@
-# Inventario  -Patrimonio
+# Inventario  -ALMOXARIFADO
 
-MVC de um Sistema para auxilio no processo de inventario
+MTC de um Sistema para auxilio no processo de inventario
 
 # Cronograma do Projeto
 
